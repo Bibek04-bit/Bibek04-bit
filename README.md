@@ -36,3 +36,16 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,mysql" /><br>
 </div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bibek04-bit
+/Bibek04-bit
+/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
