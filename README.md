@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **AQI prediction model**
+ 🔭 I’m currently working on **Text based Slot Machine**
  
  🌱 I’m currently learning **Python, SQL, ML**
 
