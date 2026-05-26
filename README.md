@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Text based Slot Machine**
+  I’m currently working on **Full Stack Web app using FastAPI**
  
- 🌱 I’m currently learning **Python, SQL, ML**
+ 🌱 I’m currently learning **Python, SQL, ML. DS**
 
  </div>
  
